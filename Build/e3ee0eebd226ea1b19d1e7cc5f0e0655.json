@@ -1,0 +1,14 @@
+{
+"companyName": "Centrinova Solusi Edukasi",
+"productName": "Xander Project",
+"dataUrl": "f0a2cf20e5f6d6357c7ad6cb98599b27.unityweb",
+"wasmCodeUrl": "5675f366894d6112226e7d08100df2b6.unityweb",
+"wasmFrameworkUrl": "ce1a170d1bd160a51800348b74b656ba.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "b5ad1251fdc7b064b5cf79b0a8cccc2e.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
