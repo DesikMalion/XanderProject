@@ -48,11 +48,11 @@
 			{
 				setTimeout(function(){ document.getElementById("loadingBlock").style.display = "none"; }, 3000);
 				
-				setTimeout(function(){ document.getElementById("fullScreenButton").style.display="block"; }, 3000);
+				//setTimeout(function(){ document.getElementById("fullScreenButton").style.display="block"; }, 3000);
 			}	
 		}
 		
-		var gameInstance = UnityLoader.instantiate("gameContainer", "Build/a44093b22cf3b74396a97f935e54752f.json", {
+		var gameInstance = UnityLoader.instantiate("gameContainer", "Build/ca6770bb9ab204117e90788b4b21eb96.json", {
 			onProgress: UnityProgress});
 		
 		window.addEventListener("beforeunload", function(e){
